@@ -13,17 +13,7 @@ Always learning. Always shipping.
 
 ---
 
-**Scripting Languages**
-
-<img src="https://skillicons.dev/icons?i=lua" height="40"/> &nbsp;
-
-**Tools & IDE**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="40"/>
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=python,js" height="40"/>
+<img src="https://skillicons.dev/icons?i=lua,github,vscode" height="40"/>
 
 ---
 
