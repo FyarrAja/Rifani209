@@ -22,4 +22,4 @@ Always learning. Always shipping.
 [![TikTok](https://img.shields.io/badge/TikTok-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@onixy9)
 [![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UhYb9rTShr)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=100&section=footer)
+![footer](       https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=100&section=footer)
